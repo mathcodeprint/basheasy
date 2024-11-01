@@ -6,7 +6,7 @@ setrkey.py
 
 A python "wizard" to in set a ssh key on a remote host.
 
-runsdjango.sh
+rundjango.sh
 
 A script for really lazy developers like me. This is for people who do NOT
 use an IDE, as IDE's like vscode do this for you.
